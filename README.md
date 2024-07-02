@@ -1,2 +1,3 @@
-# Eye-Detection-Google-ML-Kit
- Eye detection using google ml kit
+# face_detection
+
+A new Flutter project.
